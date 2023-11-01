@@ -1,12 +1,15 @@
 
-## We welcome contributions from the community to make this project better. If you would like to contribute, please follow these steps:
+![Top-7-Open-Source-Projects-For-Beginners](https://github.com/JatinSainiOO7/Open-Source-Portfolio-Project/assets/146799729/a8f3592e-b202-4816-afbd-f09c9b6e4f42)
 
-1. Go to contribute.md file and fill out your information and Let's start.
-2. Fork the project on GitHub.
-3. Create a new branch for your feature or bug fix.
-4. Make your changes and commit them with descriptive commit messages.
-5. Push your changes to your fork on GitHub.
-6. Submit a pull request to the main repository.
+
+# We welcome contributions from the community to make this project better. If you would like to contribute, please follow these steps:
+
+## 1. Go to contribute.md file and fill out your information and Let's start.
+## 2. Fork the project on GitHub.
+## 3. Create a new branch for your feature or bug fix.
+## 4. Make your changes and commit them with descriptive commit messages.
+## 5. Push your changes to your fork on GitHub.
+## 6. Submit a pull request to the main repository.
 
 ## Code of Conduct
 
