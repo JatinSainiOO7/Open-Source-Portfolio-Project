@@ -4,7 +4,7 @@
 
 # We welcome contributions from the community to make this project better. If you would like to contribute, please follow these steps:
 
-## 1. Go to contribute.md file and fill out your information and Let's start.
+## 1. Go to contributors-info.md file and fill out your information and Let's start.
 ## 2. Fork the project on GitHub.
 ## 3. Create a new branch for your feature or bug fix.
 ## 4. Make your changes and commit them with descriptive commit messages.
@@ -13,7 +13,7 @@
 
 ## Code of Conduct
 
-Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) that we expect all contributors and participants to follow. By participating in this project, you agree to abide by its terms.
+Please note that we have a [Code of Conduct](CODE-OF-CONDUCT.md) that we expect all contributors and participants to follow. By participating in this project, you agree to abide by its terms.
 
 ## License
 
