@@ -4,7 +4,7 @@
 
 # We welcome contributions from the community to make this project better. If you would like to contribute, please follow these steps:
 
-## 1. Go to contributors-info.md file and fill out your information and Let's start.
+## 1. Go to [contributors-info](CONTRIBUTORS-INFO.md) file and fill out your information and Let's start.
 ## 2. Fork the project on GitHub.
 ## 3. Create a new branch for your feature or bug fix.
 ## 4. Make your changes and commit them with descriptive commit messages.
