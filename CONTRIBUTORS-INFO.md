@@ -7,3 +7,11 @@
 - Bio: [Open Source Contributor | Learn Computer Graphics | Frontend Developer | @javascript | @C++ | Programmer | Studen]
 
 
+# 1. ARYAN SHRAMA
+
+- GitHub: [yourusername](https://github.com/1aryan102002)
+- Website: [your-website](https://yourwebsite.com)
+- Twitter: [@aryanaelu102002](https://twitter.com/@aryanaelu102002)
+- Bio: [Learn Computer Graphics | OpenGl | @C++ | c# | app developer | Programmer | Student]
+
+
