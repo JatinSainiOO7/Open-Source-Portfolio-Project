@@ -13,3 +13,12 @@
 - Website: [your-website](https://yourwebsite.com)
 - Twitter: [@knaveen01](https://twitter.com/knaveen01)
 - Bio: [Open Source Contributor | Frontend Developer | @javascript | @C++ | Programmer | Student]
+
+
+# 3. ARYAN SHRAMA
+
+- GitHub: [yourusername](https://github.com/1aryan102002)
+- Website: [your-website](https://yourwebsite.com)
+- Twitter: [@aryanaelu102002](https://twitter.com/@aryanaelu102002)
+- Bio: [Learn Computer Graphics | OpenGl | @C++ | c# | app developer | Programmer | Student]
+
